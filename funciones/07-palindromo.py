@@ -1,6 +1,6 @@
 def proof(text):
     result = False
-    clen_text = text.replace(" ", "")
+    clen_text = text.replace(" ", "").lower()
     indice = len(clen_text)
     for a in clen_text:
         indice -= 1
