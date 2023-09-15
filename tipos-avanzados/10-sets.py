@@ -19,7 +19,7 @@ print(segundo)
 # une los dos set
 print(primero | segundo)
 # encuentra la intercepción
-# print(primero & segundo)
+print(primero & segundo)
 # calcula la diferencia
 print(primero - segundo)
 # calcula

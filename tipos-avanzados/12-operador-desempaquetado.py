@@ -9,5 +9,5 @@ print(combinada)
 punto1 = {"x": 1}
 punto2 = {"y": 2}
 
-nuevoPunto = {**punto1, **punto2}
+nuevoPunto = {**punto1, **punto2} # combinar listas 
 print(nuevoPunto)
