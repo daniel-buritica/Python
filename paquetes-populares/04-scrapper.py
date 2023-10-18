@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://www.farmatodo.com.co/destacados/50998?categoria=50998%3Futm_source%3Dcms%26utm_medium%3Dbanner_home%26utm_campaign%3Dfolleto%26utm_content%3Dcuidadopersonal%26utm_term%3Dgeneral05oct"
+url = "https://www.amazon.com/s?i=specialty-aps&bbn=16225009011&rh=n%3A%2116225009011%2Cn%3A172526&language=es&ref=nav_em__nav_desktop_sa_intl_gps_and_navigation_0_2_5_7"
 header_request = {
     'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
     'Accept-encoding': 'gzip, deflate, br',
